@@ -17,3 +17,12 @@
 /public/assets/
 /assets/vendor/
 ###< symfony/asset-mapper ###
+
+/.idea/
+/node_modules/
+/public/build/
+/.phpunit.result.cache
+/.DS_Store
+/.vscode/
+/.fleet/
+/compose.override.yaml
